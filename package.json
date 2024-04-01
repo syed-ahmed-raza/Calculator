@@ -1,6 +1,6 @@
 {
   "name": "@ahmedraza_2003/calculator",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "This is My First Calculator",
   "main": "index.js",
   "type": "module",
